@@ -1,0 +1,17 @@
+algorithm to run wasdom esp32.
+
+1- Download Arduino IDE
+2- Run Arduino IDE
+3- click on a file and then choose preferences
+4- put the package link to the esp32,"https://dl.espressif.com/dl/package_esp32_index.json",Then press OK
+5-Click on the tools, then choose the Arduino panel, then the panel manager.
+6- A type screen appears in the ESP32 dialog box and then press the installation process.
+7- Click on the tools,Go to Board , Go to Boards Manage.
+8- Click on the tools, then choose the Arduino panel, then Go to  ESP32 Arduino.
+9- connect the ESP32 to the USB cord to the computer.
+10- Click on Tools,Go to  ESP32 Arduino ,and then choose then choose the WEMOS D1 MINI ESP32 controller
+11- Click on Tools , Go to port COM3,choose COM3.For to turn on the lighting:
+12- click on a file, then choose examples, then choose basic, then choose blink.
+13- a page press an arrow tick appears in the address bar on the left side of the upload process.
+14- The blue light begins to point quickly or at medium speed.
+the end.
